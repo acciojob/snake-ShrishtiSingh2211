@@ -1,2 +1,7 @@
-
 /* Your CSS Code here. */
+#gameContainer{
+	display:grid;
+	width:400px;
+	height:400px;
+	
+}
